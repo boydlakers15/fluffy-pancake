@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluffy-pancake/static/css/main.3dc6148a.css",
+    "main.js": "/fluffy-pancake/static/js/main.dee3330e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/fluffy-pancake/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/fluffy-pancake/index.html",
+    "main.3dc6148a.css.map": "/fluffy-pancake/static/css/main.3dc6148a.css.map",
+    "main.dee3330e.js.map": "/fluffy-pancake/static/js/main.dee3330e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/fluffy-pancake/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc6148a.css",
+    "static/js/main.dee3330e.js"
+  ]
+}
